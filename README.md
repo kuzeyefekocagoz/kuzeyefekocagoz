@@ -26,15 +26,7 @@ ASELSAN Mesleki ve Teknik Anadolu Lisesi öğrencisiyim. Yazılım, Linux, yapay
 - n8n
 - Arduino IDE
 
-##  GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuzeyefekocagoz&show_icons=true&theme=dark)
-
-##  En Çok Kullandığım Diller
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuzeyefekocagoz&layout=compact&theme=dark)
-
 ##  İletişim
 
 - GitHub: [@kuzeyefekocagoz](https://github.com/kuzeyefekocagoz)
-- LinkedIn: [Kuzey Efe KOCAGÖZ]([https://www.linkedin.com/](https://www.linkedin.com/in/kuzeyefekocagoz/)
+- LinkedIn: [Kuzey Efe KOCAGÖZ]([https://www.linkedin.com/](https://www.linkedin.com/in/kuzeyefekocagoz/))
