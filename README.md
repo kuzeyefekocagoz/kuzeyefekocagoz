@@ -1,9 +1,8 @@
 # Merhaba, ben Kuzey 
 
-Python ile masaüstü uygulamaları, yapay zekâ tabanlı sistemler ve çeşitli otomasyon projeleri geliştiriyorum. Şu anda yazılım geliştirme, yapay zekâ ve bilgisayarlı görü alanlarında kendimi geliştiriyorum.
+ASELSAN Mesleki ve Teknik Anadolu Lisesi öğrencisiyim. Yazılım, Linux, yapay zekâ ve Elektrik-Elektronik Teknolojisi alanlarında kendimi geliştirmeye odaklanıyorum. Arduino ve Python ile projeler geliştiriyor, açık kaynak teknolojilerini öğreniyor ve edindiğim bilgileri uygulamaya dökmeye çalışıyorum. Hedefim, güçlü teknik bilgiye sahip bir mühendis olmak.
 
 ##  İlgi Alanlarım
-
 - Python
 - Yapay Zekâ
 - Masaüstü Uygulamaları
