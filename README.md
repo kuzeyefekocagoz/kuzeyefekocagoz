@@ -1,15 +1,15 @@
-# Merhaba, ben Kuzey 👋
+# Merhaba, ben Kuzey 
 
 Python ile masaüstü uygulamaları, yapay zekâ tabanlı sistemler ve çeşitli otomasyon projeleri geliştiriyorum. Şu anda yazılım geliştirme, yapay zekâ ve bilgisayarlı görü alanlarında kendimi geliştiriyorum.
 
 ##  İlgi Alanlarım
 
-- 🐍 Python
-- 🤖 Yapay Zekâ
-- 🖥️ Masaüstü Uygulamaları
-- 🎮 Oyun Geliştirme
-- ⚙️ Otomasyon
-- 🔧 Arduino & Elektronik
+- Python
+- Yapay Zekâ
+- Masaüstü Uygulamaları
+- Oyun Geliştirme
+- Otomasyon
+- Arduino & Elektronik
 
 ## Kullandığım Teknolojiler
 
