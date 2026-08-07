@@ -29,4 +29,4 @@ ASELSAN Mesleki ve Teknik Anadolu Lisesi öğrencisiyim. Yazılım, Linux, yapay
 ##  İletişim
 
 - GitHub: [@kuzeyefekocagoz](https://github.com/kuzeyefekocagoz)
-- LinkedIn: [Kuzey Efe KOCAGÖZ]([https://www.linkedin.com/](https://www.linkedin.com/in/kuzeyefekocagoz/))
+- LinkedIn: [Kuzey Efe KOCAGÖZ](https://www.linkedin.com/in/kuzeyefekocagoz/)
