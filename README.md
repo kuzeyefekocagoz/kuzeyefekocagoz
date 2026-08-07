@@ -26,18 +26,6 @@ ASELSAN Mesleki ve Teknik Anadolu Lisesi öğrencisiyim. Yazılım, Linux, yapay
 - n8n
 - Arduino IDE
 
-##  Öne Çıkan Projeler
-
-###  IABS
-Yapay zekâ destekli gerçek zamanlı insan algılama ve bildirim sistemi.
-
-- YOLO11 ile insan algılama
-- ByteTrack ile kişi takibi
-- Fotoğraf kayıt sistemi
-- Excel kayıt sistemi
-- E-posta ve WhatsApp bildirimleri
-- CustomTkinter arayüzü
-
 ##  GitHub İstatistiklerim
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuzeyefekocagoz&show_icons=true&theme=dark)
