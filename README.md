@@ -7,7 +7,6 @@ ASELSAN Mesleki ve Teknik Anadolu Lisesi öğrencisiyim. Yazılım, Linux, yapay
 - Yapay Zekâ
 - Masaüstü Uygulamaları
 - Oyun Geliştirme
-- Otomasyon
 - Arduino & Elektronik
 
 ## Kullandığım Teknolojiler
