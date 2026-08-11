@@ -25,6 +25,9 @@ ASELSAN Mesleki ve Teknik Anadolu Lisesi öğrencisiyim. Yazılım, Linux, yapay
 - n8n
 - Arduino IDE
 
+**Diğer Teknolojiler**
+- Vibe Coding
+
 ##  İletişim
 
 - GitHub: [@kuzeyefekocagoz](https://github.com/kuzeyefekocagoz)
