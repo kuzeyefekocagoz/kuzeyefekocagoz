@@ -30,7 +30,7 @@ ASELSAN Mesleki ve Teknik Anadolu Lisesi öğrencisiyim. Yazılım, Linux, yapay
 
 
 ## Öne Çıkanlar
-- North IDE: [North-IDE](https://kuzeyefekocagoz.github.io/North-IDE/
+- North IDE: [North-IDE](https://kuzeyefekocagoz.github.io/North-IDE/)
 
   
 
