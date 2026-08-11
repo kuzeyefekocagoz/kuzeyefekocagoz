@@ -28,6 +28,12 @@ ASELSAN Mesleki ve Teknik Anadolu Lisesi öğrencisiyim. Yazılım, Linux, yapay
 **Diğer Teknolojiler**
 - Vibe Coding
 
+
+## Öne Çıkanlar
+- North IDE: [North-IDE](https://kuzeyefekocagoz.github.io/North-IDE/
+
+  
+
 ##  İletişim
 
 - GitHub: [@kuzeyefekocagoz](https://github.com/kuzeyefekocagoz)
